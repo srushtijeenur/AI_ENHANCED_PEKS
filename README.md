@@ -13,7 +13,7 @@ The detailed project presentation-1 ppt is available [here](./presentation-1.ppt
 ## Project REPORT PDF
 The report for project phase-1 in latex format is availabe [here](./Project_Phase-1_report.pdf)
 
-##Project phase-1 final ppt 
+## Project phase-1 final ppt 
 
-The final pahse-1 ppt of the project in pdf format is available[here] (./Phase-1_final_ppt.pdf)
+The final pahse-1 ppt of the project in pdf format is available[here](./Phase-1_final_ppt.pdf)
  
