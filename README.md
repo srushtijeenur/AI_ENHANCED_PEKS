@@ -6,3 +6,6 @@ make the search smarter and safer with the help of AI.
 
 ## Project Synopsis
 The detailed project synopsis is available [here](./synopsis.pdf)
+
+## Project presentation-1 ppt
+The detailed project presentation-1 ppt is available [here](./presentation-1.ppt)
