@@ -9,3 +9,7 @@ The detailed project synopsis is available [here](./synopsis.pdf)
 
 ## Project presentation-1 ppt
 The detailed project presentation-1 ppt is available [here](./presentation-1.ppt)
+
+## Project REPORT PDF
+The report for project phase-1 in latex format is availabe [here](./Project_Phase-1_report.pdf)
+
